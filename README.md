@@ -229,4 +229,4 @@ Built for advanced UI customization using Gradio.
 
 ---
 
-**NovaTheme = Clean UI + Full Control **
+**NovaTheme = Clean UI + Full Control 🚀**
