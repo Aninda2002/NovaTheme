@@ -24,7 +24,7 @@ NovaTheme is a fully customizable **Gradio theme system and visual builder** tha
 
 * 🧠 **Smart Variable System**
 
-  * Uses Gradio’s theme variable architecture (`*primary_500`, etc.)
+  * Uses Gradio’s theme variable architecture (`primary_500`, etc.)
   * Auto-suggestions for easier customization
 
 * 📦 **Export Ready Code**
