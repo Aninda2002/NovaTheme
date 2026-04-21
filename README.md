@@ -50,8 +50,8 @@ NovaTheme is a fully customizable **Gradio theme system and visual builder** tha
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/novatheme.git
-cd novatheme
+git clone https://github.com/Aninda2002/NovaTheme.git
+cd NovaTheme
 pip install gradio gradio_client
 ```
 
