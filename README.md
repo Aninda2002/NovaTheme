@@ -80,7 +80,6 @@ NovaTheme is a custom theme class:
 
 ```python
 class NovaTheme(Soft):
-    ...
 ```
 
 ### Key Customizations:
