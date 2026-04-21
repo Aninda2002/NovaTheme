@@ -40,8 +40,8 @@ NovaTheme is a fully customizable **Gradio theme system and visual builder** tha
 ## 🏗️ Project Structure
 
 ```
-├── theme.py              # NovaTheme definition
-├── app.py                # Theme builder UI (Gradio app)
+├── Theme                 # NovaTheme definition
+├── Builder               # Theme builder UI (Gradio app)
 ├── README.md             # Project documentation
 ```
 
