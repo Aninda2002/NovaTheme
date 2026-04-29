@@ -1,7 +1,6 @@
 #This is the theme file
 from typing import Iterable
 
-
 from gradio.themes import Soft
 from gradio.themes.utils import colors, fonts, sizes
 
