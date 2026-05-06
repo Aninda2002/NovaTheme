@@ -2,6 +2,7 @@
 
 NovaTheme is a fully customizable **Gradio theme system and visual builder** that allows you to design, preview, and export UI themes interactively. It extends Gradio’s built-in theming with enhanced styling, gradients, dark mode support, and a live preview environment.
 
+
 ---
 
 
