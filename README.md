@@ -12,6 +12,7 @@ NovaTheme is a fully customizable **Gradio theme system and visual builder** tha
   * Built on top of `gradio.themes.Soft`
   * Fully configurable colors, spacing, fonts, and UI variables
 
+
 * 🌗 **Dark + Light Mode Support**
 
   * Carefully tuned palettes for both modes
